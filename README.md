@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kekajan</h1>
 <h3 align="center">A passionate Full Stack & Mobile developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://twitter.com/kekajan1" target="blank"><img src="https://img.shields.io/twitter/follow/kekajan1?logo=twitter&style=for-the-badge" alt="kekajan1" /></a> </p>
+
 
 - 🌱 I’m currently learning **Computer Science & Technology**
 
