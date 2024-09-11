@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kekajan</h1>
 <h3 align="center">A passionate Full Stack & Mobile developer from Sri Lanka</h3>
 
-
+<p>I am a full stack web developer. I enjoy building web applications, exploring new technologies, and solving complex problems through code. My repositories feature a mix of personal projects, coursework, and collaborations, showcasing my skills in frontend and backend development, as well as my growing interest in data science and machine learning.</p>
 
 - 🌱 I’m currently learning **Computer Science & Technology**
 
